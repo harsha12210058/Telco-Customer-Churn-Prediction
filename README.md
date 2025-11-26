@@ -98,7 +98,8 @@ Demonstrated end-to-end data science workflow
 
 Files Included:
 
-notebook.ipynb – Full code
+Customer Churn Prediction.ipynb – Full code
+
 WA_Fn-UseC_-Telco-Customer-Churn – Real data
 
 churn_predictions.csv – Model output
