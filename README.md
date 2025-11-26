@@ -99,15 +99,9 @@ Demonstrated end-to-end data science workflow
 Files Included:
 
 notebook.ipynb – Full code
+WA_Fn-UseC_-Telco-Customer-Churn – Real data
 
 churn_predictions.csv – Model output
 
 README.md – Documentation
 
-Future Improvements:
-
-Hyperparameter tuning
-
-Model deployment (Flask or Streamlit)
-
-Power BI dashboard for business insights
