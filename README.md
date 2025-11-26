@@ -100,9 +100,9 @@ Files Included:
 
 Customer Churn Prediction.ipynb – Full code
 
-WA_Fn-UseC_-Telco-Customer-Churn – Real data
+WA_Fn-UseC_-Telco-Customer-Churn.csv – Real data
 
-churn_predictions.csv – Model output
+Customer Churn Predicted.csv – Model output
 
 README.md – Documentation
 
